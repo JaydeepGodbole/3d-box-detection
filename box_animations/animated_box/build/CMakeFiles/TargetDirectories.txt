@@ -1,0 +1,5 @@
+/media/jaydeep/DATA/Project/animated_box/build/CMakeFiles/edit_cache.dir
+/media/jaydeep/DATA/Project/animated_box/build/CMakeFiles/rebuild_cache.dir
+/media/jaydeep/DATA/Project/animated_box/build/CMakeFiles/animated_box.dir
+/media/jaydeep/DATA/Project/animated_box/build/CMakeFiles/integrated_main.dir
+/media/jaydeep/DATA/Project/animated_box/build/CMakeFiles/independent_listener.dir
